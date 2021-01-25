@@ -5,12 +5,9 @@
 **StudentID :** 61070106
 **Name :** Netchanok Petchurai
 
-<<<<<<< HEAD
 > [IT @ KMITL](https://www.it.kmitl.ac.th)
-=======
-> [King mongkut's institute of technology ladkrabang.](https://www.kmitl.ac.th)
->>>>>>> features/link
 
 ```
-print("Hello Ladkrabang")
+print("Hello world, IT @ KMITL")
 ```
+[![IT](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th/th/)
